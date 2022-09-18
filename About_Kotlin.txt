@@ -1,0 +1,7 @@
+Kotlin is a programming language. That is also known as improved version of JAVA. It is similer to JAVA. 
+Its main features is that it reduces the boiler code. It requires less no of lines to implement the same logic as recquired in JAVA. 
+Kotlin also uses JVM to compie. 
+All codes written in Kotlin are converted to bytecode similar to JAVA.
+Kotlin was develop by JetBrains.
+First appeared on : July 22, 2011
+It is also the offical language of Android. 
