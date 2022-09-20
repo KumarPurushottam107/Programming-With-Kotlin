@@ -22,11 +22,11 @@ fun main()
      println(str.length) */
      
      // correct form of above line 
-     println(str?.length)
+     println(str?.length) // output = null
     
      var tittu = Alien() 
     
-     println(tittu.name)
+     println(tittu.name) // output = null
     
     
     /* below code will give error 
@@ -34,7 +34,7 @@ fun main()
        println(tittu.name.length) */
        
     // correct form of above code 
-       println(tittu.name?.length)
+       println(tittu.name?.length) // output = null
        
     /* below code will give error
        var kittu = Alien()
@@ -49,11 +49,11 @@ fun main()
        println(kittu.name) */
     
     // corrct form of above line
-       println(kittu?.name)
+       println(kittu?.name) // output = null 
        
    var city : String = ""
     
-    println("Length of the city is " + city.length)
+    println("Length of the city is " + city.length) // output = 0 
        
        
        
