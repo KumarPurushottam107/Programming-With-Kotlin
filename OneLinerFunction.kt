@@ -24,7 +24,7 @@ fun add(a : Int, b : Int) : Int
     return(a+b)
 }
 
-// One Linear Function
+// One Liner Function
 
 fun oneLineSum( a : Int , b : Int) = a+b
 
