@@ -31,3 +31,14 @@ fun calcAmount( amt : Int , interest : Double = 0.05) : Int
     return( amt + amt*interest ).toInt()
 }
     
+
+/*
+OUTPUT
+finalAmt is 416
+finalAmt is 315
+
+*/
+    
+    
+    
+    
